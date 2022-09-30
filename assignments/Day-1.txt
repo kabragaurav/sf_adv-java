@@ -1,5 +1,5 @@
 		
-	ASSIGNMENT 01: Build Java Console based Banking App which below funcationlities using Collection with Exception Handling
+	ASSIGNMENT 01: Build Java Console based Banking App which below functionalities using Collection with Exception Handling
 					1] Add Account
 					2] Update Account
 					3] Delete Account
@@ -20,3 +20,9 @@
 						d] Show avg balance by account type			
 						e] List account ids whose account name contains given name
 					7] Exit
+
+
+
+
+
+

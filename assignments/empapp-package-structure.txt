@@ -1,0 +1,35 @@
+
+Package
+=======
+
+com
+  |
+  |___ salesforce
+          |
+		  |______ empapp
+					|
+					|_____ EmployeeMain
+					
+					|
+					|______ service
+							|
+							|_____ EmployeeService
+							|
+							|_____ EmployeeServiceImpl
+								
+					|
+					|_______ model
+							   |
+							   |____ Employee
+					|
+					|_______ dao
+							  |
+							  |_____ EmployeeDao
+							  |
+							  |_____ EmployeeDaoJdbcImpl
+					|
+					|_______ exception
+							  |
+							  |_____ EmployeeException
+					|
+					|_______ util
